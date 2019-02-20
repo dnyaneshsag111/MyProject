@@ -1,0 +1,10 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 66CC-E7C6
+
+ Directory of C:\Users\A610486\Desktop\MyProject
+
+20-02-2019  09:22    <DIR>          .
+20-02-2019  09:22    <DIR>          ..
+20-02-2019  09:22                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  23,315,132,416 bytes free
